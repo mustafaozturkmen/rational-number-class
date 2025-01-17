@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# rational-number-class
-A Python implementation of a RationalNumber class supporting arithmetic operations and float handling.
-=======
-<<<<<<< HEAD
-# rational-number-class
 A Python implementation of a RationalNumber class supporting arithmetic operations and float handling.
 =======
 # RationalNumber Class
