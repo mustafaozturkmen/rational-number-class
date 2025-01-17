@@ -17,6 +17,4 @@ This repository contains a Python implementation of a `RationalNumber` class tha
 To use this class in your project, simply clone this repository and import the `RationalNumber` class:
 
 ```bash
-git clone https://github.com/your-username/rational-number-class.git
->>>>>>> 19df4d4 (Initial commit: Add RationalNumber class)
->>>>>>> cde282a (First commit)
+git clone https://github.com/mustafaozturkmen/rational-number-class.git
